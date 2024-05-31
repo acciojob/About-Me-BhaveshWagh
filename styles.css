@@ -1,1 +1,44 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.left-section{
+	width:50%
+}
+#profile-section{
+display:flex;	
+}
+span{
+	font-weight:bolder;
+}
+.skill-section{
+	display:flex;
+	justify-content:space-between;
+}
+.progress-bar{
+	width:100%;
+	height:3px;
+	background-color:#caf6ff;
+	/* border:1px solid blue; */
+}
+#progress-1{
+	width:95%;
+	border:2px solid blue;
+	
+}
+#progress-2{
+	width:90%;
+	border:2px solid blue;	
+	
+}
+#progress-3{
+	width:99%;
+	border:2px solid blue;	
+	
+}
+#progress-4{
+	width:93%;
+	border:2px solid blue;	
 
+}
